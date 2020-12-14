@@ -12,4 +12,6 @@ npm install
 symfony server:start
 ```
 
+[Reference](https://gopibabu.hashnode.dev/integrate-vuejs-symfony)
+
 [Reference](https://blog.elao.com/fr/dev/comment-integrer-vue-js-application-symfony/)
